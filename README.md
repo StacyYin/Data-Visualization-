@@ -1,2 +1,2 @@
-# Data-Visualization-
+# Data-Visualization
 different methods of data visualization
